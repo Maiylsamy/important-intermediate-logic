@@ -1,4 +1,4 @@
-n = int(input('enter a no:'))
+n = int(input('enter a no:'))#for loop
 x=0
 for i in range(n+1):
     x += i
@@ -6,7 +6,7 @@ print(x)
 
 print(n*(n+1)/2)#fromula
 
-def sumofno(n):
+def sumofno(n): #function
     if n==0:
         return n
     return n + sumofno(n-1)
