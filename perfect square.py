@@ -1,5 +1,5 @@
 from math import sqrt
-
+# input value becames end of the output value eg: input 5 output 25
 
 def sq(n):
     if n >= 0:
