@@ -1,6 +1,4 @@
-# Number = 5
-# Square of number = 25
-# as the square of the number ends with the number itself, It's an Automorphic number.
+#  371 can also be represented as 3^3 + 7^3 + 1^3 therefore it's an Armstrong Number.
 i = int(input('enter a no'))
 j =int( input('enter a no'))
 for n in range(i,j):
